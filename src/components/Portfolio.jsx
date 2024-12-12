@@ -65,7 +65,7 @@ const Portfolio = () => {
         <div className="max-w-6xl mx-auto px-4 py-20 text-center">
           <div className="flex justify-center items-center">
             <img
-              src="src/assets/nut.jpg"
+              src="https://i.postimg.cc/ydyLfxrR/nut.jpg"
               className="w-[300px] h-[300px] rounded-full border-4 border-gold"
               alt="Nut Image"
             />
